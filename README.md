@@ -44,4 +44,4 @@ This project predicts whether a client will subscribe to a bank term deposit usi
 - Moro, S., Cortez, P., & Rita, P. (2014). A data-driven approach to predict the success of bank telemarketing. Decision Support Systems.  
 - UCI Machine Learning Repository. Bank Marketing Dataset. https://archive.ics.uci.edu/dataset/222/bank+marketing  
 - Odo, C. (2023). Random Forest: Assumptions, Advantages, Disadvantages and Applications. Medium. https://medium.com/@chibuike.odo.c/random-forest-assumptions-advantages-disadvantages-and-applications-2881f4ea14b6  
-- Additional references in APA format.
+- Additional references available.
